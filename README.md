@@ -1,2 +1,3 @@
 # MyProfile
-my bio, cv &amp; window to world
+Primarily for my bio, cv &amp; window to world
+
